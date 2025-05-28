@@ -41,7 +41,7 @@ Program to implement Merge Sort
 
 Developed by: MIDHUN AZHAHU RAJA P
 
-Register Number: 212222250066
+Register Number: 212222240066
 
 ```PY
 def merge(arr,left,middle,right):
